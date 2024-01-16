@@ -1,0 +1,27 @@
+.come{
+    width: 100%;
+    background: #0a1111;
+    margin: 1px;
+    padding: 10px;
+    color: #f8f3ec;
+    border-radius: 10px;
+
+}
+.red{
+    width: 23%;
+    height: 120px;
+    background: #6c757d;
+    margin-top: 25px;
+    padding: 5px;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+body{
+    background: cornflowerblue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+

@@ -1,0 +1,27 @@
+.user-item {
+    width: 47.3%;
+    height: 100px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: slategray;
+    padding: 10px;
+    border: solid 5px black;
+    color: white;
+}
+.page-new-html{
+    width: 150px;
+    height: 20px;
+    margin-left: 10px;
+    border-radius: 25px;
+
+}
+
+body{
+    background: cornflowerblue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0;
+}

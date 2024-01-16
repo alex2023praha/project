@@ -1,0 +1,38 @@
+.target{
+
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background: #6c757d;
+    padding: 5px;
+    color: white;
+}
+.target1{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-around;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+.pos{
+    border-radius: 25px;
+    width: 90%;
+    height: 20px;
+    background: #6c757d;
+    color: white;
+
+}
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background: burlywood;
+}

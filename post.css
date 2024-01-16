@@ -1,0 +1,26 @@
+.title{
+    width: 15%;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border: solid 5px black;
+    margin: 10px;
+    padding: 10px;
+    background: aliceblue;
+}
+.comments{
+    width: 100px;
+    height: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+body{
+    background: cornflowerblue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-end;
+}
